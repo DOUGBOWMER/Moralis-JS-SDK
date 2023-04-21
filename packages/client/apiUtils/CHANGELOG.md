@@ -1,5 +1,12 @@
 # @moralisweb3/client-api-utils
 
+## 2.18.5
+
+### Patch Changes
+
+- Updated dependencies [[`393291c73`](https://github.com/MoralisWeb3/Moralis-JS-SDK/commit/393291c73248ba59010f801ba33d230c4b5615a9)]:
+  - @moralisweb3/common-core@2.18.5
+
 ## 2.18.4
 
 ### Patch Changes

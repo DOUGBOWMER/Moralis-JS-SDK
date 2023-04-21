@@ -1,5 +1,25 @@
 # moralis
 
+## 2.18.5
+
+### Patch Changes
+
+- [#1098](https://github.com/MoralisWeb3/Moralis-JS-SDK/pull/1098) [`393291c73`](https://github.com/MoralisWeb3/Moralis-JS-SDK/commit/393291c73248ba59010f801ba33d230c4b5615a9) Thanks [@b4rtaz](https://github.com/b4rtaz)! - Fixed importing interop modules for CJS bundles.
+
+- Updated dependencies [[`700a64f6a`](https://github.com/MoralisWeb3/Moralis-JS-SDK/commit/700a64f6ab058eff0b728eb169a7e041c4f2dcd4), [`393291c73`](https://github.com/MoralisWeb3/Moralis-JS-SDK/commit/393291c73248ba59010f801ba33d230c4b5615a9)]:
+  - @moralisweb3/common-streams-utils@2.18.5
+  - @moralisweb3/streams@2.18.5
+  - @moralisweb3/common-aptos-utils@2.18.5
+  - @moralisweb3/common-auth-utils@2.18.5
+  - @moralisweb3/common-evm-utils@2.18.5
+  - @moralisweb3/common-sol-utils@2.18.5
+  - @moralisweb3/common-core@2.18.5
+  - @moralisweb3/api-utils@2.18.5
+  - @moralisweb3/aptos-api@2.18.5
+  - @moralisweb3/evm-api@2.18.5
+  - @moralisweb3/sol-api@2.18.5
+  - @moralisweb3/auth@2.18.5
+
 ## 2.18.4
 
 ### Patch Changes
